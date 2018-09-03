@@ -1,0 +1,29 @@
+
+.izq{
+	float:left;
+	background-color: blue;
+	width: 20%;
+	height: 1200px;
+} 
+.centro{
+    
+    float:left;
+    background-color: #FF9;
+    width: 60%;
+    height: 1200px;
+}
+.dcha{
+    float:left;
+    background-color: #CCF;
+    width: 20%;
+    height: 1200px;
+}
+.caja{
+	padding: 5px;
+	background-color:#F00;
+	margin: 0 auto;
+
+}
+.clear{
+	clear: both;
+}
